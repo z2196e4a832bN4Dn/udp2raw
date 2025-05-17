@@ -22,6 +22,7 @@ set(SOURCE_FILES
         fd_manager.cpp
         client.cpp
         server.cpp
+        udp2raw_api.cpp
         lib/aes_faster_c/aes.cpp
         lib/aes_faster_c/wrapper.cpp
         my_ev.cpp
